@@ -2,4 +2,4 @@
 - name: install redis 
   hosts: redis1.rhdemo.local
   roles:
-    - geerlingguy.redis
+    - ansible-role-redis
