@@ -1,1 +1,2 @@
 - src: https://github.com/geerlingguy/ansible-role-redis
+- src: https://github.com/geerlingguy/ansible-role-repo-epel.git

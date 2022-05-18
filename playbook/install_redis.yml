@@ -2,4 +2,5 @@
 - name: install redis 
   hosts: redis1.rhdemo.local
   roles:
+    - ansible-role-redis.repo-epel
     - ansible-role-redis
